@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Develop Generative AI Solutions in Azure
 
 The exercises in this repo are designed to provide you with a hands-on learning experience in which you'll explore common tasks that developers perform when building generative AI solutions on Microsoft Azure.
@@ -12,3 +13,7 @@ View the exercises in the [GitHub Pages site for this repo](https://microsoftlea
 ## Reporting issues
 
 If you encounter any problems in the exercises, please report them as **issues** in this repo.
+=======
+# 01-use-azure-ai-services
+It is a first ai project with rest api
+>>>>>>> 89500db41bfcadaa94ebf823caca0787a1283f62
